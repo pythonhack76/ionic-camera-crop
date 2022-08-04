@@ -1,0 +1,7 @@
+{
+  "name": "coderCrop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
